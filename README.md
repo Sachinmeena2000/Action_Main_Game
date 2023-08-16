@@ -1,2 +1,2 @@
-# Action_Main_Game
-This is my action game .
+# Action-Game
+Action game in html, css, javascript
